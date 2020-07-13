@@ -1,6 +1,14 @@
 # Talks
 Repository contains my talks/workshops
 
+
+## 2020
+
+| Topic                                                                 | Event                                   | Month     | Slides |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Intro to Machine Learning | STEM-Away Office Hours | July | [Slides](  https://docs.google.com/presentation/d/11X3-Fn47jNYpzyDjlT1VK8IbFpj_80K32s772AOpaAQ/edit?usp=drivesdk ) |
+
+
 ## 2019
 
 | Topic                                                                 | Event                                   | Month     | Slides |
