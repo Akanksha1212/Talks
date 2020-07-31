@@ -7,6 +7,7 @@ Repository contains my talks/workshops
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
 | Intro to Machine Learning | STEM-Away Office Hours | July | [Slides](  https://docs.google.com/presentation/d/11X3-Fn47jNYpzyDjlT1VK8IbFpj_80K32s772AOpaAQ/edit?usp=drivesdk ) |
+| NLP101 | STEM-Away Office Hours | July | [Slides]( https://docs.google.com/presentation/d/1iiZfhKl-eGwjxK4UVPvclnps4T2X97HnVYlEv3SsOQI/edit?usp=sharing ) |
 
 
 ## 2019
