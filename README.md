@@ -1,6 +1,12 @@
 # Talks
 Repository contains my talks/workshops
 
+## 2021
+
+| Topic                                                                 | Event                                   | Month     | Slides |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Hitchhiker's Guide To Hackathons | Hack Odisha 2021 | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
+
 
 ## 2020
 
