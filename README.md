@@ -5,6 +5,7 @@ Repository contains my talks/workshops
 
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Hackathons101 | [Google Developer Student Club IIIT Guwahati](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-information-technology-guwahati-presents-session-talk/) | September | [Slides](  ) |
 | Hitchhiker's Guide To Hackathons | Hack Odisha 2021 | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
 
 
