@@ -1,5 +1,12 @@
 # Talks
-Repository contains my talks/workshops
+Repository contains my talks/workshops/sessions
+
+## 2022
+
+| Topic                                                                 | Event                                   | Month     | Slides |
+| :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Beginner's Guide To Firebase | [GDSC Road to Solution Challenge Session](https://youtu.be/wJyFw4dcBC0) | February | [Slides](https://drive.google.com/file/d/142eDp7j55yiL4U9XZDVthlzNG8dUHPkm/view?usp=sharing) |
+
 
 ## 2021
 
