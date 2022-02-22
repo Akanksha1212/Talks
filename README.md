@@ -5,6 +5,7 @@ Repository contains my talks/workshops/sessions
 
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Intro to Mobile Dev | [Kurinji Hacks](https://superposition-chennai.github.io/Kurinji-Hacks-Website/#/) | February | [Slides](https://docs.google.com/presentation/d/1jBk4HL87EPpa3n1l7fBb7Ejwu-u9UgGsF602hB7HkB8/edit?usp=sharing) |
 | Beginner's Guide To Firebase | [GDSC Road to Solution Challenge Session](https://youtu.be/wJyFw4dcBC0) | February | [Slides](https://drive.google.com/file/d/142eDp7j55yiL4U9XZDVthlzNG8dUHPkm/view?usp=sharing) |
 
 
@@ -14,7 +15,7 @@ Repository contains my talks/workshops/sessions
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
 | Intro to Flutter | [Algo Athenas - Womxn* in Tech Summit](https://www.eventbrite.com/e/algo-athenas-womxn-in-tech-summit-tickets-176303397207) | October | [Slides](https://docs.google.com/presentation/d/1F964GRZWbFDIpkVGdyhG27eFZ_92X6ErrhxfkHme-ZA/edit?usp=sharing) |
 | Hackathons101 | [Google Developer Student Club IIIT Guwahati](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-information-technology-guwahati-presents-session-talk/) | September | [Slides](  ) |
-| Hitchhiker's Guide To Hackathons | Hack Odisha 2021 | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
+| Hitchhiker's Guide To Hackathons | [Hack Odisha 2021](https://youtu.be/E1fYmUJYDxk) | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
 
 
 ## 2020
