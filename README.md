@@ -5,6 +5,7 @@ Repository contains my talks/workshops/sessions
 
 | Topic                                                                 | Event                                   | Month     | Slides |
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
+| Flutter 101 | [Tech Together Chicago](https://techtogether.io/events) | February | [Slides]() |
 | Push Notifications made easy with OneSignal | [Flutter Festival El Jadida](https://fb.watch/bpTK06oGoU/) | February | [Slides](https://docs.google.com/presentation/d/1VFHWD6jSJUJOEBqVhYALZY_5Kq2XKzhveWw0ZLGzBrg/edit?usp=sharing&resourcekey=0-x_hJjeCV_ZGKBSo3aEuRdQ) |
 | Intro to Mobile Dev | [Kurinji Hacks](https://superposition-chennai.github.io/Kurinji-Hacks-Website/#/) | February | [Slides](https://docs.google.com/presentation/d/1jBk4HL87EPpa3n1l7fBb7Ejwu-u9UgGsF602hB7HkB8/edit?usp=sharing) |
 | Beginner's Guide To Firebase | [GDSC Road to Solution Challenge Session](https://youtu.be/wJyFw4dcBC0) | February | [Slides](https://drive.google.com/file/d/142eDp7j55yiL4U9XZDVthlzNG8dUHPkm/view?usp=sharing) |
