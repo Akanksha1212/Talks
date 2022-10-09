@@ -19,7 +19,7 @@ Repository contains my talks/workshops/sessions
 | :-------------------------------------------------------------------: | :-------------------------------------: | :-------: | :----: |
 | Intro to Flutter | [Algo Athenas - Womxn* in Tech Summit](https://www.eventbrite.com/e/algo-athenas-womxn-in-tech-summit-tickets-176303397207) | October | [Slides](https://docs.google.com/presentation/d/1F964GRZWbFDIpkVGdyhG27eFZ_92X6ErrhxfkHme-ZA/edit?usp=sharing) |
 | Hackathons101 | [Google Developer Student Club IIIT Guwahati](https://gdsc.community.dev/events/details/developer-student-clubs-indian-institute-of-information-technology-guwahati-presents-session-talk/) | September | [Slides](  ) |
-| Hitchhiker's Guide To Hackathons | [Hack Odisha 2021](https://youtu.be/E1fYmUJYDxk) | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
+| Hitchhiker's Guide To Hackathons | [Hack Odisha 2021]() | September | [Slides](  https://drive.google.com/file/d/11vZTmeHgHQznGMFGYKGLZ0JMWAuLnHey/view?usp=sharing ) |
 
 
 ## 2020
